@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "src\\": "src/"
+    }
+  },
+  "require": {
+    "miladrahimi/phprouter": "5.*",
+    "j4mie/idiorm": "^1.5"
+  }
+}
